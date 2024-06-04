@@ -1,4 +1,4 @@
-package com.alura.literatura;
+package com.alura.libreria;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
